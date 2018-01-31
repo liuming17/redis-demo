@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: redis-demo
+  redis:
+    host: 119.23.47.218
+    port: 16539
+    password:
+
